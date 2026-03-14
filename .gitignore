@@ -62,3 +62,9 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Minikube / Kubernetes (local binaries, avoid pushing large files)
+minikube-darwin-arm64
+minikube-darwin-amd64
+minikube-*
+
